@@ -19,9 +19,9 @@ export function NewCycleForm() {
       />
 
       <datalist id="task-suggestions">
-        <option value="task1" />
+        {/* <option value="task1" />
         <option value="task2" />
-        <option value="task3" />
+        <option value="task3" /> */}
       </datalist>
 
       <label htmlFor="minutesAmount">durante</label>
